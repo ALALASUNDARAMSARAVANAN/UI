@@ -226,7 +226,7 @@ $(document).ready(
 			{
 				NoofImages = 3;
 				}
-				
+				alert("hi");
 				populateImage(0);
 			 /*populateCategory(); */
           /*WCFJSON(); */
