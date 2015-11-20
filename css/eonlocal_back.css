@@ -1,0 +1,280 @@
+@charset "utf-8";
+html, body {
+    height: 100%;
+}
+.first
+{
+	height : 15vw;
+	width:  100%;
+
+	float:left;
+
+	 display: flex;
+    flex-direction: column;
+    justify-content: center;
+	}
+.second
+{    
+
+	}
+.third
+{
+
+
+	width:100%;
+	height: 100%;
+
+	}	
+.fourth
+{
+	
+ display:table;
+ margin:auto
+
+	}
+.sixth
+{
+
+	
+	}
+	.seventh{
+      margin:auto;
+      height:100px;
+	  width:100px;
+	  opacity: 0.6;		
+		}
+		.seventh-after
+		{
+			margin:auto;
+      height:100px;
+	  width:100px;
+	  opacity: 1.0;		
+			
+			}
+ .eigth
+ {
+	font:Arial, sans-serif;
+	color:white;
+         
+
+	 }	
+	 .ninth
+	 {
+
+        height:400px;
+		width:400px;
+
+		  display:inline-block;
+
+        margin-left:auto;
+		margin-right:auto;
+		  vertical-align:middle
+
+		 }	
+		 .tength
+		 {
+		  display:inline-block;
+		  height:100%;
+		  margin:auto;
+		  vertical-align:middle	 
+		 }
+		 .elevnth
+		 {
+			 width:100%;
+			 height:calc((30vw -  400px)/2);
+
+  			 
+		  }
+		  .twelth
+		  {
+	width: 100%;
+	height: 5vh;
+
+	text-align: end;
+	vertical-align: bottom;
+		   }
+		   .thirteenth
+		   {
+	font-family: open sans bold;
+	font-size: 27pt;
+	color: white;
+	text-align: left;
+	bottom: 0;
+	margin-top: 3vh ;
+	line-height: 1.4286;
+			   }
+			   .fourteenth
+			   {
+				   float:right;
+				   width:126px;
+				   height:50px;
+				}
+				.fifteenth
+				{
+				 height:1vh;
+
+				 width:100%;	
+					}	
+				.sixteenth
+				{
+			     height:calc(30vw - ( ((30vw -  400px)/2)+ 1vh + 5vh));
+
+				 width:100%;
+
+				font: Courier New;
+				text-align: justify;
+				top:0;
+							
+			}
+			.eighteenth
+			{
+				height:100%;
+				width:100%
+				}
+				.twenty
+				{
+				   font:open sans;
+				   font-size:12pt;
+				   color:white;
+
+					}
+					.twentyone
+					{
+				   font:Courier New;
+				   font-size:20px;
+				   color:white;
+				   	}
+					.twentytwo
+					{
+					 width:20vw;	
+						
+					}
+					.twentythree
+					{ 
+					 float:left;
+                     margin-top:0px;   
+						
+					}
+					.twentyfour
+					{
+					width:100%;	
+						}
+					.twentyfive
+					{
+					font-family:open sans;	
+					font-size:22pt;
+					height:25pt; 
+
+					}
+					.twentysix
+					{
+					font-family:open sans;	
+					font-size:12pt;
+					height:12pt;
+					margin-left:0;
+					left:0; 
+					
+					
+					}
+					.twentyseven
+					{
+					font-family:open sans;	
+					font-size:12pt;
+					height:12pt;
+					margin-left:0;
+					left:0; 
+
+					
+					
+					}
+						
+					.eon-back-color-1
+					{
+	background-color: rgba(17,43,66,1.00);
+						}
+						
+					.eon-back-color-2
+						{
+   	background-color: rgb(5,24,43) ;		
+							}
+							.eon-back-color-3
+						{
+/*   	background-color: linear-gradient(rgb(3,20,36) , rgb(3,12,22)) ;*/
+background-color: rgb(3,12,22) ;
+						}
+							.eon-back-color-4
+						{
+						background-color: rgb(189,191,55);
+						font-size:21pt;
+						color:white;
+						font-family: open sans;
+						margin:auto;
+						}
+						.eon-caption
+						{
+							font-size:12pt;
+						color:white;
+						font-family: open sans;
+					   }
+    .circular {
+	width: 120px;
+	height: 120px;
+	border-radius: 120px;
+	-webkit-border-radius: 120px;
+	-moz-border-radius: 120px;
+	background: url(../img/namhai.jpg) no-repeat;
+	margin-left:20px;
+	margin-top:20px;
+
+	}
+	.circular2 {
+	width: 30px;
+	height: 30px;
+	border-radius: 30px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+    background-color:rgb(1,177,175) ;
+	margin-left:0%;
+
+
+	}
+	.eon-button-1
+	{
+		float:left;
+				   width:135px;
+				   height:50px;
+				   margin-left:10px;
+				   margin-top:25px;
+		
+		}
+		.eon-color-5
+		{
+			background-color:white;
+			}
+			.eon-pos-1
+			{
+
+				float:left;
+				color:white;
+				}
+			.eon-pos-2
+			{
+				color:white;
+				margin-left:30px;
+				margin-top:5px;
+				}
+			.eon-pos-3
+			{
+				color:white;
+                float:inherit;
+				margin-left:5px;
+				margin-top:5px;
+				}
+			.eon-pos-4
+			{
+				height:30px;
+				
+				}
+				
+					
+					
